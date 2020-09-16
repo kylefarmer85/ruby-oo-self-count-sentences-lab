@@ -1,7 +1,6 @@
 require 'pry'
 
 class String
-  attr_accessor :counter
 
   def initialize
     @counter = 0
